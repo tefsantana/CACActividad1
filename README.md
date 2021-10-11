@@ -1,2 +1,2 @@
-# CodoACodo
-Ejercicios obligatorios de Codo a Codo
+# CActividad1
+Actividad Obligatoria N°2 de Codo a Codo
